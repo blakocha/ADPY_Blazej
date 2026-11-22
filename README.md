@@ -1,2 +1,3 @@
 # ADPY_Blazej
-Repozytorium testow
+Repozytorium testowe. 
+To jest test pierwszego commita. 
